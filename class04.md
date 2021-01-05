@@ -11,7 +11,7 @@
 * opennig link in a new window. 
 * linking a specific part of the same page. 
 * linking to specific part in another page. 
-* 
+
 
 
 # chapter 15
@@ -31,7 +31,7 @@
 
 * <div> elements are often used as containing elements
 to group together sections of a page.
-*  Browsers display pages in normal flow unless you
+*  Browsers display pages in normal  flow     unless you
 specify relative, absolute, or fixed positioning.
 * The float property moves content to the left or right
 of the page and can be used to create multi-column
