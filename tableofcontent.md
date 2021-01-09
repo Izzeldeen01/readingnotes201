@@ -10,3 +10,4 @@ please contact me @ [alqawasmehizzeldeen@gmail.com](alqawasmehizzeldeen@gmail.co
 |read02       |basics of html      |[class02.md](https://izzeldeen01.github.io/readingnotes201/class03)|        
 |read03       |HTML Lists          |[class03.md](https://izzeldeen01.github.io/readingnotes201/class03)|
 |read04       |layout,links,functions|[class04.md](https://izzeldeen01.github.io/readingnotes201/class04)| 
+|read05       |image, color , text |[class05.md](https://izzeldeen01.github.io/readingnotes201/class05)| 
