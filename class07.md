@@ -18,5 +18,5 @@
 - Arrays and artifacts should be used for dynamic data production Sets of sets (and both can contain the other).
 ![function](https://cf.ppt-online.org/files/slide/z/ZQB7W6CTo0jgKzhF5VLlfNdbm1HPD2exvrSG9q/slide-41.jpg)
 
-https://flaviocopes.com/html-tables/no-styling.png
+(https://flaviocopes.com/html-tables/no-styling.png)
 
