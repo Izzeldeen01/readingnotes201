@@ -13,5 +13,5 @@
 - You should migrate files from your FTP programs Your web server's local machine. 
 - Most businesses offer blogging and email services E-commerce, newsletters and other popular websites Werkzeuge (to save you writing them from scratch).
 ![images](https://cancersupportfrance.org/sites/default/files/pictures/PRACTICAL-INFO.png).
-https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg
+
 
