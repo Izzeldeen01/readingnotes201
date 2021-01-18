@@ -16,3 +16,6 @@ please contact me @ [alqawasmehizzeldeen@gmail.com](alqawasmehizzeldeen@gmail.co
 |read08       | HTML Links, JS Functions, and Intro to CSS Layout| [class08](https://izzeldeen01.github.io/readingnotes201/read08)|
 |read09       | forms and JS events|[class09.md](https://izzeldeen01.github.io/readingnotes201/class09)|
 |read10       |error handling & debuging| [class10.md](https://izzeldeen01.github.io/readingnotes201/class10)|
+|read11       | img&videos              | [class11.md](https://izzeldeen01.github.io/readingnotes201/class11)|
+|read12       | charts                  | [class12.md] (https://izzeldeen01.github.io/readingnotes201/class12)|
+|read13       | storag                  | [class13.md](https://izzeldeen01.github.io/readingnotes201/class13)|
