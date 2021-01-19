@@ -19,4 +19,5 @@ please contact me @ [alqawasmehizzeldeen@gmail.com](alqawasmehizzeldeen@gmail.co
 |read11       | img&videos               |[class11.md](https://izzeldeen01.github.io/readingnotes201/class11)|
 |read12       | charts                   |[class12.md](https://izzeldeen01.github.io/readingnotes201/class12)|
 |read13       | storag                   |[class13.md](https://izzeldeen01.github.io/readingnotes201/class13)|
+|read14a      |CSS                       |[class14a.md](https://izzeldeen01.github.io/readingnotes201/class14a)|
 |read14b      | building team            |[class14b.md](https://izzeldeen01.github.io/readingnotes201/class14b)|
